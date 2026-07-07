@@ -14,6 +14,7 @@ Everything for building on and selling with [Shopify](https://www.shopify.com) â
 - [Headless & Hydrogen](#headless--hydrogen)
 - [AI, MCP & Agents](#ai-mcp--agents)
 - [Payments & Checkout](#payments--checkout)
+- [Top Apps](#top-apps)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
 - [Podcasts & Newsletters](#podcasts--newsletters)
@@ -80,6 +81,96 @@ Everything for building on and selling with [Shopify](https://www.shopify.com) â
 - [Checkout UI Extensions](https://shopify.dev/docs/api/checkout-ui-extensions) - API for adding custom UI and logic into any step of the Shopify checkout.
 - [Payments Extensions](https://shopify.dev/docs/apps/build/payments) - Developer documentation for building payments extensions that process payments during checkout.
 - [Shopify Payments](https://help.shopify.com/en/manual/payments/shopify-payments) - Merchant help documentation for activating and managing Shopify Payments.
+
+## Top Apps
+
+Popular, highly-rated apps from the [Shopify App Store](https://apps.shopify.com), grouped by use case.
+
+### Email & SMS Marketing
+
+- [Klaviyo](https://apps.shopify.com/klaviyo-email-marketing) - Email, SMS and WhatsApp marketing platform with segmentation and automation built on customer data.
+- [Omnisend](https://apps.shopify.com/omnisend) - Combines email marketing, newsletters, SMS and popups to drive ecommerce sales.
+- [Postscript](https://apps.shopify.com/postscript-sms-marketing) - SMS marketing platform for campaigns, automations and cart-recovery texts.
+- [Privy](https://apps.shopify.com/privy) - Grows email and SMS lists with popups and sends automated marketing messages.
+- [Shopify Email](https://apps.shopify.com/shopify-email) - Native Shopify email and SMS marketing tool for creating branded campaigns in one place.
+
+### Reviews & UGC
+
+- [Judge.me](https://apps.shopify.com/judgeme) - Collects and displays unlimited product reviews, photos, videos and star ratings.
+- [Loox](https://apps.shopify.com/loox) - Captures visual product reviews with photo and video UGC to boost conversions.
+- [Okendo](https://apps.shopify.com/okendo-reviews) - Reviews, loyalty, referrals and quizzes platform for building customer trust.
+- [Stamped](https://apps.shopify.com/product-reviews-addon) - Gathers product reviews, ratings, photos and Q&A alongside loyalty features.
+- [Yotpo](https://apps.shopify.com/yotpo-social-reviews) - Collects and displays product reviews and ratings to showcase social proof.
+
+### Upsell & Cross-sell
+
+- [Candy Rack](https://apps.shopify.com/candyrack) - All-in-one upsell and cross-sell app with AI recommendations and a built-in cart drawer.
+- [Frequently Bought Together](https://apps.shopify.com/frequently-bought-together) - Adds smart frequently-bought-together bundle recommendations to product pages.
+- [ICU In Cart Upsell](https://apps.shopify.com/in-cart-upsell) - Shows in-cart, cross-sell and post-purchase upsell offers to lift order value.
+- [ReConvert](https://apps.shopify.com/reconvert-upsell-cross-sell) - Builds cart, checkout and post-purchase upsell funnels to raise average order value.
+
+### Loyalty & Rewards
+
+- [BON Loyalty](https://apps.shopify.com/bon-loyalty-rewards) - Runs points, VIP tiers and referral rewards programs to boost retention.
+- [Growave](https://apps.shopify.com/growave) - All-in-one retention suite combining loyalty, reviews and wishlists.
+- [LoyaltyLion](https://apps.shopify.com/loyaltylion) - Loyalty platform with points, tiers and referrals to drive repeat purchases.
+- [Smile](https://apps.shopify.com/smile-io) - Launches points, VIP tiers and referral loyalty programs to reward repeat customers.
+
+### Subscriptions
+
+- [Appstle](https://apps.shopify.com/subscriptions-by-appstle) - Powers subscriptions, subscription boxes and bundles for recurring revenue.
+- [Loop Subscriptions](https://apps.shopify.com/loop-subscriptions) - Manages subscriptions at scale with customer portals and churn-reduction tools.
+- [Recharge](https://apps.shopify.com/subscription-payments) - Subscription platform for recurring billing, customer portals and churn prevention.
+- [Seal Subscriptions](https://apps.shopify.com/seal-subscriptions) - Adds subscriptions and memberships with flexible recurring order options.
+
+### Page Builders
+
+- [EComposer](https://apps.shopify.com/ecomposer) - Drag-and-drop builder for any Shopify page with AI tools and CRO add-ons.
+- [GemPages](https://apps.shopify.com/gempages) - AI-powered page builder for conversion-focused landing pages and sales funnels.
+- [PageFly](https://apps.shopify.com/pagefly) - Drag-and-drop page builder for CRO-focused landing, product and home pages.
+- [Shogun](https://apps.shopify.com/shogun) - Visual editor for building blog posts, product pages, landing pages and sections.
+
+### SEO
+
+- [Avada SEO](https://apps.shopify.com/avada-seo-suite) - AI SEO suite with audits, on-page optimization and image compression.
+- [SearchPie](https://apps.shopify.com/seo-booster) - SEO booster with speed optimization, schema markup and bulk AI meta tags.
+- [Smart SEO](https://apps.shopify.com/smart-seo) - Improves SEO through meta tags, structured data and page-speed optimization.
+- [Tiny SEO](https://apps.shopify.com/smart-image-optimizer) - Optimizes images, alt text, page speed and SEO schema for better rankings.
+
+### Search & Filters
+
+- [Algolia AI Search](https://apps.shopify.com/algolia-search) - Enterprise AI search and discovery for higher conversions at scale.
+- [Boost AI Search](https://apps.shopify.com/product-filter-search) - AI-powered search bar, product filters and merchandising for discovery.
+- [Shopify Search & Discovery](https://apps.shopify.com/search-and-discovery) - Native Shopify app to customize storefront search, filters and recommendations.
+- [Smart Product Filter & Search](https://apps.shopify.com/smart-product-filter) - Adds AI semantic search and instant collection filters to product discovery.
+
+### Customer Support & Chat
+
+- [Gorgias](https://apps.shopify.com/helpdesk) - Ecommerce helpdesk unifying email, chat and social with AI-powered automation.
+- [Re:amaze](https://apps.shopify.com/reamaze) - AI-powered helpdesk and live chat unifying support across multiple channels.
+- [Shopify Inbox](https://apps.shopify.com/inbox) - Native Shopify chat with an AI sales associate for storefront conversations.
+- [Tidio](https://apps.shopify.com/tidio-chat) - Live chat and AI chatbot for instant shopper support and sales.
+
+### Shipping & Fulfillment
+
+- [AfterShip](https://apps.shopify.com/aftership) - Branded order tracking and shipment notifications across 1,100+ carriers.
+- [Easyship](https://apps.shopify.com/easyship) - Compares shipping rates and automates labels, tracking and duties.
+- [ParcelPanel](https://apps.shopify.com/parcelpanel) - Order tracking with branded tracking pages to reduce WISMO inquiries.
+- [ShipStation](https://apps.shopify.com/shipstation) - Shipping and fulfillment platform with multi-carrier label automation.
+
+### Analytics & Reporting
+
+- [Better Reports](https://apps.shopify.com/betterreports) - Custom reporting and analytics to explore and export store data.
+- [Lucky Orange](https://apps.shopify.com/lucky-orange) - Heatmaps, session recordings and analytics to spot friction and lift conversions.
+- [Report Pundit](https://apps.shopify.com/report-pundit) - Builds custom reports, combines data sources and automates delivery.
+- [Triple Whale](https://apps.shopify.com/triplewhale-1) - Centralizes ecommerce analytics and marketing attribution with AI insights.
+
+### Print-on-Demand & Sourcing
+
+- [DSers](https://apps.shopify.com/dsers) - AliExpress dropshipping tool for product importing and bulk order fulfillment.
+- [Printful](https://apps.shopify.com/printful) - Prints and ships custom apparel and products on demand with no upfront cost.
+- [Printify](https://apps.shopify.com/printify) - Creates and sells custom products through a global print-on-demand network.
+- [Spocket](https://apps.shopify.com/spocket) - Sources dropshipping products from verified US and EU suppliers.
 
 ## Learning Resources
 
