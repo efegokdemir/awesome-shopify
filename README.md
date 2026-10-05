@@ -44,7 +44,7 @@ Everything for building on and selling with [Shopify](https://www.shopify.com) â
 - [Shopify Polaris](https://polaris.shopify.com) - Shopify's design system and component guidance for building admin app UIs.
 - [Shopify theme-tools](https://github.com/Shopify/theme-tools) - Parsers, formatters, linters (Theme Check) and language servers for Liquid theme development.
 - [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) - Public definitions for the UI extension APIs used to build checkout and admin extensions.
-- [Shopify Upgrade Guard](https://github.com/efegokdemir/shopify-upgrade-guard) - Offline, evidence-backed CLI and GitHub Action that detects documented Shopify API and platform upgrade risks before migrations.
+- [Shopify Upgrade Guard](https://github.com/RexCode-Digital/shopify-upgrade-guard) - Offline CLI and GitHub Action for target-aware Shopify API and platform upgrade-risk checks.
 
 ## App Development
 
