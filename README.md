@@ -39,7 +39,7 @@ Everything for building on and selling with [Shopify](https://www.shopify.com) â
 
 ## CLI & Developer Tools
 
-- [ChangeGuard](https://github.com/efegokdemir/shopify-app-changeguard) - Offline, privacy-focused CLI and GitHub Action for semantic review of Shopify app configuration changes.
+- [ChangeGuard](https://github.com/RexCode-Digital/shopify-app-changeguard) - Offline CLI and GitHub Action for semantic review of Shopify app configuration changes.
 - [Shopify CLI](https://github.com/Shopify/cli) - Official command-line tool to build apps, themes and Hydrogen storefronts.
 - [Shopify Functions](https://shopify.dev/docs/apps/build/functions) - Serverless backend logic to customize business logic such as discounts and checkout.
 - [Shopify Polaris](https://polaris.shopify.com) - Shopify's design system and component guidance for building admin app UIs.
